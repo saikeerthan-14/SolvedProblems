@@ -11,7 +11,16 @@
  */
 class Solution {
 public:
-    int goodNodes(TreeNode* root, int ma = INT_MIN) {
-        return root? goodNodes(root->left, max(ma, root->val)) + goodNodes(root->right, max(ma, root->val)) + (root->val>=ma): 0;
+    int solve(TreeNode* root, int val) {
+        if(!root) return 0;
+        val = max(val, root->val);
+        if(root->val>=val) {
+            return 1 + solve(root->left, val) + solve(root->right, val);
+        }
+        return solve(root->left, val) + solve(root->right, val);
+    }
+    
+    int goodNodes(TreeNode* root) {
+        return solve(root, root->val);
     }
 };
