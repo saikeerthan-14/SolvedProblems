@@ -1,25 +1,24 @@
 class Solution {
 public:
-    void generate(int idx, vector<int>v, vector<int>&c, vector<vector<int>>&ans, int t) {
+    void combine(int idx, int t, vector<int>c, vector<int> comb, vector<vector<int>>&ans) {
         if(t==0) {
-            ans.push_back(v);
+            ans.push_back(comb);
             return;
+        } 
+        for(int i=idx;i<c.size();i++) {
+            if(c[i]<=t) {
+                comb.push_back(c[i]);
+                combine(i, t-c[i], c, comb, ans);
+                comb.pop_back();
+            }
         }
-        if(idx==c.size()) {
-            return;
-        }
-        for(int i=idx; i<c.size();i++) {
-            if(c[i]>t) continue;
-            v.push_back(c[i]);
-            generate(i, v, c, ans, t-c[i]);
-            v.pop_back();
-        }
+
     }
     
     vector<vector<int>> combinationSum(vector<int>& c, int t) {
-        sort(c.begin(), c.end());
+        sort(c.begin(), c.end(), greater<int>());
         vector<vector<int>> ans;
-        generate(0, {}, c, ans, t);
+        combine(0, t, c, {}, ans);
         return ans;
     }
 };
