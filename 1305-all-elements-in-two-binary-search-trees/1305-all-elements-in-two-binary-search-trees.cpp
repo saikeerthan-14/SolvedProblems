@@ -11,19 +11,62 @@
  */
 class Solution {
 public:
-    vector<int> ans;
-    
-    void inOrder(TreeNode* root, vector<int>& ans) {
-        if(root==NULL) return;
-        inOrder(root->left, ans);
-        ans.push_back(root->val);
-        inOrder(root->right, ans);
+    TreeNode* morris(TreeNode* root)
+    {
+        if(!root)
+            return NULL;
+        TreeNode* temp;
+        TreeNode* temp2;
+        TreeNode* start=NULL;
+        while(root)
+        {
+            if(root->left)
+            {
+                temp=root->left;
+                while(temp->right)
+                    temp=temp->right;
+                temp->right=root;
+                temp=root->left;
+                root->left=NULL;
+                root=temp;
+                if(start!=NULL)
+                    temp2->right=root;
+            }
+            else
+            {
+                if(start==NULL)
+                    start=root;
+                temp2=root;
+                root=root->right;
+            }
+        }return start;
     }
-    
     vector<int> getAllElements(TreeNode* root1, TreeNode* root2) {
-        inOrder(root1, ans);
-        inOrder(root2, ans);
-        sort(ans.begin(), ans.end());
-        return ans;
+        TreeNode* list1=morris(root1);
+        TreeNode* list2=morris(root2);
+        vector<int>v;
+        while(list1&&list2)
+        {
+            if(list1->val>list2->val)
+            {
+                v.push_back(list2->val);
+                list2=list2->right;
+            }
+            else
+            {
+                v.push_back(list1->val);
+                list1=list1->right;
+            }
+        }
+        while(list1)
+        {
+            v.push_back(list1->val);
+            list1=list1->right;
+        }
+        while(list2)
+        {
+            v.push_back(list2->val);
+            list2=list2->right;
+        }return v;
     }
 };
