@@ -1,32 +1,34 @@
 class MyStack {
 public:
-    vector<int> v;
-    int t=-1;
+    queue<int> q;
     MyStack() {
         
     }
-    
+//     1 2 3 - q
+//     3 2 1 - st
+//   1
+//    1 2 ; 1 2 1; 2 1
+//     2 1 3;   1 3 2;  3 2 1
     void push(int x) {
-        v.push_back(x);
-        t++;
+        q.push(x);
+        for(int i=0;i<q.size()-1;i++) {
+            q.push(q.front());
+            q.pop();
+        }
     }
     
     int pop() {
-        // if(t>-1) {
-            int p = v[t];
-            v.pop_back();
-        t--;
-            return p;
-        // }
+        int p = q.front();
+        q.pop();
+        return p;
     }
     
     int top() {
-        return v[t];
+       return q.front(); 
     }
     
     bool empty() {
-        if(t<=-1) return true;
-        return false;
+        return !q.size();
     }
 };
 
