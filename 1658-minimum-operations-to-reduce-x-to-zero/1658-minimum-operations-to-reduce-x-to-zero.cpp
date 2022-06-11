@@ -14,6 +14,7 @@ public:
         int ans = 0;
         int s=0, e=0, c_sum=nums[0];
         while(e<nums.size()) {
+            // cout<<s<<" "<<e<<" "<<c_sum<<" "<<t_sum<<" "<<ans<<endl;
             if(c_sum<t_sum) {
                 e++;
                 if(e==nums.size()) break;
@@ -23,8 +24,11 @@ public:
                 s++;
             } else if(c_sum==t_sum) {
                 ans = max(ans, e-s+1);
-                c_sum-=nums[s];
-                s++;
+                // c_sum-=nums[s];
+                // s++;
+                e++;
+                if(e==nums.size()) break;
+                c_sum+=nums[e];
             }
         }
         if(ans==0) return -1;
