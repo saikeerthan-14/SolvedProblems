@@ -10,7 +10,7 @@ public:
             return;
         }
         else {
-            cout<<"enter"<<endl;
+            // cout<<"enter"<<endl;
             for(int j=n-1;j>i;j--) {
                 if(nums[j]>nums[i]) {
                     swap(nums[j], nums[i]);
