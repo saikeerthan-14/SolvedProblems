@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
@@ -13,4 +14,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0128-longest-consecutive-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
