@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0617-merge-two-binary-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0617-merge-two-binary-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0617-merge-two-binary-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0199-binary-tree-right-side-view) |
 | [0617-merge-two-binary-trees](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0617-merge-two-binary-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
 | ------- |
