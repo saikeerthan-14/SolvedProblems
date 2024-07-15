@@ -1,29 +1,20 @@
 class Solution {
 public:
-    int leastInterval(vector<char>& tasks, int n) {
-        if (n == 0) return tasks.size();
-
-        unordered_map<char, int> freqMap;
-        int maxFreq = 0;
-        int maxFreqCount = 0;
-
-        for (char task : tasks) {
-            
-            if (freqMap.find(task) != freqMap.end()) {
-                freqMap[task]++;
-            } else {
-                freqMap[task] = 1; 
+    int leastInterval(vector<char>& nums, int n) {
+        int ans = 0;
+        unordered_map<char, int> u;
+        int ma = INT_MIN, cnt = 0;
+        for(int i=0;i<nums.size();i++) {
+            u[nums[i]]++;
+            if(ma < u[nums[i]]) {
+                ma = u[nums[i]];
+                cnt = 0;
             }
+            if(ma==u[nums[i]]) cnt++;
 
-            if (freqMap[task] > maxFreq) {
-                maxFreq = freqMap[task];
-                maxFreqCount = 1;
-            } else if (freqMap[task] == maxFreq) {
-                maxFreqCount++;
-            }
         }
-
-        int totalIntervals = (maxFreq - 1) * (n + 1) + maxFreqCount;
-        return max(totalIntervals, (int)tasks.size());
+        ans = (n+1) * (ma-1) + cnt;
+        n = nums.size();
+        return max(ans, n);
     }
 };
