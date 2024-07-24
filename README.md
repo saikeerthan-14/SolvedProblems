@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1127-last-stone-weight) |
+| [1333-sort-the-jumbled-numbers](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1014-k-closest-points-to-origin) |
+| [1333-sort-the-jumbled-numbers](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Quickselect
 |  |
