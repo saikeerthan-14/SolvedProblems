@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0792-binary-search) |
 | [0876-hand-of-straights](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0907-koko-eating-bananas) |
+| [0948-sort-an-array](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1127-last-stone-weight) |
 | [1333-sort-the-jumbled-numbers](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1333-sort-the-jumbled-numbers) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0948-sort-an-array](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0948-sort-an-array](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1127-last-stone-weight) |
 ## Design
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0876-hand-of-straights) |
+| [0948-sort-an-array](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1014-k-closest-points-to-origin) |
 | [1333-sort-the-jumbled-numbers](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -232,4 +236,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0078-subsets) |
+## Merge Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0948-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0948-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0948-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
