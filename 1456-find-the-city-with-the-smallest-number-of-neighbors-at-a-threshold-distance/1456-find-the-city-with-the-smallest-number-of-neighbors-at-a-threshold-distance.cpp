@@ -15,10 +15,7 @@ public:
         for (int k = 0; k < n; k++) {
             for (int i = 0; i < n; i++) {
                 for (int j = 0; j < n; j++) {
-                    if (G[i][j] > (G[i][k] + G[k][j])
-                        && (G[k][j] != INM
-                            && G[i][k] != INM))
-                        G[i][j] = G[i][k] + G[k][j];
+                    G[i][j] = min(G[i][j], G[i][k] + G[k][j]);
                 }
             }
         }
