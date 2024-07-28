@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0617-merge-two-binary-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/saikeerthan-14/SolvedProblems/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## String Matching
 |  |
 | ------- |
@@ -262,8 +263,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/saikeerthan-14/SolvedProblems/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/saikeerthan-14/SolvedProblems/tree/master/2171-second-minimum-time-to-reach-destination) |
 <!---LeetCode Topics End-->
