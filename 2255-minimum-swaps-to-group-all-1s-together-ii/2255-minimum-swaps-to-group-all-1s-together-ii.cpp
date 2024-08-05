@@ -1,33 +1,24 @@
 class Solution {
 public:
     int minSwaps(vector<int>& nums) {
-        int n = nums.size();
-        int totalOnes = 0;
-        
-        // Count total number of 1's and create a doubled array
-        vector<int> doubledNums(2 * n);
-        for (int i = 0; i < n; i++) {
-            totalOnes += nums[i];
-            doubledNums[i] = doubledNums[i + n] = nums[i];
+        int cnt = 0, s = 0;
+        for(int i=0;i<nums.size();i++) {
+            if(nums[i]==1) cnt++;
         }
-        
-        // Edge cases
-        if (totalOnes == 0 || totalOnes == n) return 0;
-        
-        // Create cumulative sum array
-        vector<int> cumulativeSum(2 * n + 1, 0);
-        for (int i = 0; i < 2 * n; i++) {
-            cumulativeSum[i + 1] = cumulativeSum[i] + doubledNums[i];
+        int w = nums.size()-cnt;
+        int ans = cnt;
+        for(int i=0;i<w;i++) {
+            if(nums[i]==1) s++;
         }
-        
-        int maxOnesInWindow = 0;
-        
-        // Check all possible windows of size totalOnes
-        for (int i = 0; i <= n; i++) {
-            int onesInWindow = cumulativeSum[i + totalOnes] - cumulativeSum[i];
-            maxOnesInWindow = max(maxOnesInWindow, onesInWindow);
+        ans = min(ans, s);
+        int n = nums.size(), i;
+        for(int k=w;k<n+w-1;k++) {
+            i = k;
+            if(nums[i-w]==1) s--;
+            if(k>=n) i=k%n;
+            if(nums[i]==1) s++;
+            ans = min(ans, s);
         }
-        
-        return totalOnes - maxOnesInWindow;
+        return ans;
     }
 };
