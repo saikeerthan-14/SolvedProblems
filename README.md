@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0792-binary-search) |
 | [0876-hand-of-straights](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0907-koko-eating-bananas) |
+| [0921-spiral-matrix-iii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1127-last-stone-weight) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0074-search-a-2d-matrix) |
+| [0921-spiral-matrix-iii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0921-spiral-matrix-iii) |
 ## Tree
 |  |
 | ------- |
@@ -306,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0273-integer-to-english-words) |
+## Simulation
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
