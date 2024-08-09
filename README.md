@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0621-task-scheduler) |
 | [0792-binary-search](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0792-binary-search) |
+| [0870-magic-squares-in-grid](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0921-spiral-matrix-iii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0355-design-twitter](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0621-task-scheduler) |
+| [0870-magic-squares-in-grid](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0876-hand-of-straights) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/saikeerthan-14/SolvedProblems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0074-search-a-2d-matrix) |
+| [0870-magic-squares-in-grid](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0921-spiral-matrix-iii) |
 ## Tree
 |  |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0870-magic-squares-in-grid) |
 | [1014-k-closest-points-to-origin](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
