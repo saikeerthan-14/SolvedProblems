@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0948-sort-an-array) |
+| [0999-regions-cut-by-slashes](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0999-regions-cut-by-slashes) |
 | [1014-k-closest-points-to-origin](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1127-last-stone-weight) |
 | [1196-filling-bookcase-shelves](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1196-filling-bookcase-shelves) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0621-task-scheduler) |
 | [0870-magic-squares-in-grid](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0876-hand-of-straights) |
+| [0999-regions-cut-by-slashes](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0999-regions-cut-by-slashes) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/saikeerthan-14/SolvedProblems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0128-longest-consecutive-sequence) |
+| [0999-regions-cut-by-slashes](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0999-regions-cut-by-slashes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0074-search-a-2d-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0999-regions-cut-by-slashes) |
 ## Tree
 |  |
 | ------- |
@@ -131,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0617-merge-two-binary-trees) |
+| [0999-regions-cut-by-slashes](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0999-regions-cut-by-slashes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -170,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0617-merge-two-binary-trees) |
+| [0999-regions-cut-by-slashes](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0999-regions-cut-by-slashes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/saikeerthan-14/SolvedProblems/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## String Matching
