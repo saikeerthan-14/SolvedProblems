@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0907-koko-eating-bananas) |
+| [0909-stone-game](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0909-stone-game) |
 | [0921-spiral-matrix-iii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0999-regions-cut-by-slashes) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0909-stone-game](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0909-stone-game) |
 | [1196-filling-bookcase-shelves](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1511-count-number-of-teams) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0273-integer-to-english-words](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0870-magic-squares-in-grid) |
+| [0909-stone-game](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0909-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -324,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0921-spiral-matrix-iii) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
