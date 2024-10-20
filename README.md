@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0143-reorder-list) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Dynamic Programming
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0145-binary-tree-postorder-traversal) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0355-design-twitter) |
 ## Backtracking
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0273-integer-to-english-words) |
 ## Simulation
