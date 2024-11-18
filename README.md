@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0792-binary-search) |
 | [0870-magic-squares-in-grid](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0876-hand-of-straights) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0909-stone-game) |
 | [0921-spiral-matrix-iii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0921-spiral-matrix-iii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0792-binary-search) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0907-koko-eating-bananas) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Matrix
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1127-last-stone-weight) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Recursion
 |  |
@@ -357,5 +361,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1694-make-sum-divisible-by-p) |
+## Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
