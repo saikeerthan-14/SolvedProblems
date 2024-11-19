@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/saikeerthan-14/SolvedProblems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saikeerthan-14/SolvedProblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2727-number-of-senior-citizens](https://github.com/saikeerthan-14/SolvedProblems/tree/master/2727-number-of-senior-citizens) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/saikeerthan-14/SolvedProblems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/saikeerthan-14/SolvedProblems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saikeerthan-14/SolvedProblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/saikeerthan-14/SolvedProblems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Union Find
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saikeerthan-14/SolvedProblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Recursion
 |  |
 | ------- |
