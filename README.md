@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0212-word-search-ii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0621-task-scheduler) |
 | [0792-binary-search](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0792-binary-search) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0074-search-a-2d-matrix) |
+| [0212-word-search-ii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0212-word-search-ii) |
 | [0870-magic-squares-in-grid](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0999-regions-cut-by-slashes) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0212-word-search-ii) |
 | [0273-integer-to-english-words](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0572-subtree-of-another-tree) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0090-subsets-ii) |
+| [0212-word-search-ii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0212-word-search-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -360,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0212-word-search-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/saikeerthan-14/SolvedProblems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Prefix Sum
 |  |
