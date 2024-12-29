@@ -1,109 +1,55 @@
-// class Solution {
-// public:
-//     bool isValid(int i, int j, int m, int n) {
-//         if(i<0 || i>=m || j<0 || j>=n) return false;
-//         return true;
-//     }
-
-//     void helper(vector<vector<char>>& board, string& word, vector<string>& ans, int st, string &s, int m, int n) {
-//         if(st==word.size()) {
-//             if(s==word) ans.push_back(word);
-//             return;
-//         }
-//         vector<pair<int, int>> dire = {{1, 0}, {0, 1}, {-1, 0}, {0, -1}};
-//         for(int i=0;i<dire.size();i++) {
-
-//         }
-//     }
-
-//     vector<string> findWords(vector<vector<char>>& board, vector<string>& words) {
-//         vector<string> ans;
-//         string s;
-//         for(int i=0;i<words.size();i++)
-//             helper(board, words[i], ans, 0, s, board.size(), board[0].size());
-//         return ans;    
-//     }
-// };
-
 class Solution {
 public:
+    struct Trie {
+        Trie* children[26];
+        string w;
+        Trie (){
+            for(int i=0;i<26;i++) children[i] = NULL;
+            w = "";
+        }
+    };
 
-    string str;
-    bool vis[13][13];
 
-    unordered_set<string> res;
-    unordered_set<string> toFound;
-    unordered_map<string, int> m;
-
-    void rec(int i, int j, vector<vector<char>> &a)
-    {
-        if (toFound.find(str) != toFound.end())
-        {
-            string curr;
-
-            for (auto x : str)
-            {
-                curr += x;
-                m[curr]--;
+    Trie* insert(vector<string>& words) {
+        Trie* root = new Trie();
+        for(int i=0;i<words.size();i++) {
+            Trie* temp = root;
+            for(char c: words[i]) {
+                if(temp->children[c-'a'] == NULL) temp->children[c-'a'] = new Trie();
+                temp = temp->children[c-'a'];
             }
-
-            toFound.erase(curr);
-            res.insert(str);
+            temp->w = words[i];
         }
-
-        if (i < 0 || j < 0 || i >= a.size() || j >= a[0].size() || vis[i][j] || m[str] == 0)
-        {
-            return;
-        }
-
-        vis[i][j] = 1;
-
-        str += a[i][j];
-
-        rec(i + 1, j, a);
-        rec(i, j + 1, a);
-        rec(i, j - 1, a);
-        rec(i - 1, j, a);
-
-        vis[i][j] = 0;
-
-        str.pop_back();
+        return root;
     }
 
-    vector<string> findWords(vector<vector<char>>& a, vector<string>& words) {
-
-
-        for (auto x : words)
-        {
-            string curr;
-
-            toFound.insert(x);
-
-            for (auto y : x)
-            {
-                curr += y;
-                m[curr]++;
-            }
+    void helper(vector<vector<char>>& board, int i, int j, vector<string>&ans, Trie* temp) {
+        char c = board[i][j];
+        if(board[i][j]=='*') return;
+        if(temp->children[c-'a']==NULL) {
+            return;
         }
-
-        m[""]++;
-
-        for (int i = 0; i < a.size(); i++)
-        {
-            for (int j = 0; j < a[0].size(); j++)
-            {
-                memset(vis, 0, sizeof(vis));
-                rec(i, j, a);
-            }
+        temp = temp->children[c-'a'];
+        if(temp->w!="") {
+            ans.push_back(temp->w);
+            temp->w = "";
         }
+        board[i][j] = '*';
+        if(i>0) helper(board, i-1, j, ans, temp);
+        if(j>0) helper(board, i, j-1, ans, temp);
+        if(i<board.size()-1) helper(board, i+1, j, ans, temp);
+        if(j<board[0].size()-1) helper(board, i, j+1, ans, temp);
+        board[i][j] = c;
+    }
 
+    vector<string> findWords(vector<vector<char>>& board, vector<string>& words) {
+        Trie* temp = insert(words);
         vector<string> ans;
-
-        for (auto x : res)
-        {
-            ans.push_back(x);
+        for(int i=0;i<board.size();i++) {
+            for(int j=0;j<board[0].size();j++) {
+                helper(board, i, j, ans, temp);
+            }
         }
-
         return ans;
     }
 };
