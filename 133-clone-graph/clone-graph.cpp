@@ -34,7 +34,7 @@ public:
                 if(u.find(k)==u.end()) {
                     u[k] = new Node(k->val);
                 }
-                cout<<k->val<<" "<<k->neighbors.size()<<endl;
+                // cout<<k->val<<" "<<k->neighbors.size()<<endl;
                 for(int i=0;i<k->neighbors.size();i++) {
                     Node* neigh = k->neighbors[i];
                     if(u.find(neigh)==u.end()) {
