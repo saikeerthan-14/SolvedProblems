@@ -11,9 +11,8 @@
  */
 class Solution {
 public:
-    void helper(TreeNode* root, int &ans, int &maz) {
+    void helper(TreeNode* root, int &ans, int maz) {
         if(!root) return;
-        cout<<root->val<<" "<<maz<<endl;
         if(root->val>=maz) {
             // cout<<root->val<<maz<<endl;
             ans++;
