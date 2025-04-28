@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0621-task-scheduler) |
+| [0636-exclusive-time-of-functions](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0636-exclusive-time-of-functions) |
 | [0792-binary-search](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0792-binary-search) |
 | [0870-magic-squares-in-grid](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0876-hand-of-straights) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0636-exclusive-time-of-functions](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0636-exclusive-time-of-functions) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Monotonic Stack
 |  |
