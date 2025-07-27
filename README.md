@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0042-trapping-rain-water) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0014-longest-common-prefix) |
 | [0212-word-search-ii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0212-word-search-ii) |
 | [0273-integer-to-english-words](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0014-longest-common-prefix) |
 | [0212-word-search-ii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0212-word-search-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/saikeerthan-14/SolvedProblems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Prefix Sum
