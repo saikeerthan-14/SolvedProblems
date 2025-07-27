@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0355-design-twitter](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0355-design-twitter) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0014-longest-common-prefix) |
+| [0076-minimum-window-substring](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0076-minimum-window-substring) |
 | [0212-word-search-ii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0212-word-search-ii) |
 | [0273-integer-to-english-words](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0076-minimum-window-substring) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saikeerthan-14/SolvedProblems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
