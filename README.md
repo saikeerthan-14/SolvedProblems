@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0617-merge-two-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0999-regions-cut-by-slashes) |
+| [1007-numbers-with-same-consecutive-differences](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/saikeerthan-14/SolvedProblems/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## String Matching
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0090-subsets-ii) |
 | [0212-word-search-ii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0212-word-search-ii) |
+| [1007-numbers-with-same-consecutive-differences](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1007-numbers-with-same-consecutive-differences) |
 ## Bit Manipulation
 |  |
 | ------- |
