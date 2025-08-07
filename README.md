@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0014-longest-common-prefix) |
+| [0071-simplify-path](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0076-minimum-window-substring) |
 | [0212-word-search-ii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0212-word-search-ii) |
 | [0273-integer-to-english-words](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0273-integer-to-english-words) |
