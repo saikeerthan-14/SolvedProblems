@@ -10,11 +10,7 @@ class Solution:
         curr = head
 
         while curr:
-            if curr.next and curr.val != curr.next.val:
-                prev.next = curr
-                curr = curr.next
-                prev = prev.next
-            elif curr.next is None:
+            if curr.next is None or (curr.next and curr.val != curr.next.val):
                 prev.next = curr
                 curr = curr.next
                 prev = prev.next
