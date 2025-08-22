@@ -11,9 +11,6 @@ class Solution:
             freq[curr.val] = freq.get(curr.val, 0) + 1
             curr = curr.next
 
-        for i, j in freq.items():
-            print(i, j, end = " ")        
-        
         dummy = ListNode(0, head)
         prev = dummy
 
