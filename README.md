@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0056-merge-intervals) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0876-hand-of-straights) |
