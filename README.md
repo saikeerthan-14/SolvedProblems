@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0078-subsets) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0909-stone-game](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0909-stone-game) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0876-hand-of-straights) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
