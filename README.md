@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0909-stone-game](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0909-stone-game) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0909-stone-game) |
@@ -416,4 +418,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
