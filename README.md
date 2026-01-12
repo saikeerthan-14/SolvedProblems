@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0143-reorder-list) |
+| [0408-valid-word-abbreviation](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0408-valid-word-abbreviation) |
 | [0874-backspace-string-compare](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0874-backspace-string-compare) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Dynamic Programming
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0212-word-search-ii) |
 | [0273-integer-to-english-words](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0408-valid-word-abbreviation](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0408-valid-word-abbreviation) |
 | [0572-subtree-of-another-tree](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0572-subtree-of-another-tree) |
 | [0874-backspace-string-compare](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0874-backspace-string-compare) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
