@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0339-nested-list-weight-sum](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0339-nested-list-weight-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0617-merge-two-binary-trees) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0339-nested-list-weight-sum](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0339-nested-list-weight-sum) |
 | [0617-merge-two-binary-trees](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0617-merge-two-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0999-regions-cut-by-slashes) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1007-numbers-with-same-consecutive-differences) |
