@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0090-subsets-ii) |
 | [0212-word-search-ii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0212-word-search-ii) |
+| [0489-robot-room-cleaner](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0489-robot-room-cleaner) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1007-numbers-with-same-consecutive-differences) |
 ## Bit Manipulation
 |  |
@@ -428,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0070-climbing-stairs) |
+## Interactive
+|  |
+| ------- |
+| [0489-robot-room-cleaner](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0489-robot-room-cleaner) |
 <!---LeetCode Topics End-->
