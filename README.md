@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0212-word-search-ii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0621-task-scheduler](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0621-task-scheduler) |
 | [0636-exclusive-time-of-functions](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0636-exclusive-time-of-functions) |
 | [0792-binary-search](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0792-binary-search) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0143-reorder-list) |
 | [0408-valid-word-abbreviation](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0408-valid-word-abbreviation) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0874-backspace-string-compare](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0874-backspace-string-compare) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Dynamic Programming
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0408-valid-word-abbreviation](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0408-valid-word-abbreviation) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0572-subtree-of-another-tree](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0572-subtree-of-another-tree) |
 | [0874-backspace-string-compare](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0874-backspace-string-compare) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/saikeerthan-14/SolvedProblems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0621-task-scheduler](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/saikeerthan-14/SolvedProblems/tree/master/0948-sort-an-array) |
